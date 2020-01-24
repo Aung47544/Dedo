@@ -1,0 +1,2 @@
+# Dedo
+Teach me everyone.
